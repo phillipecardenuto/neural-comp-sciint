@@ -12,4 +12,4 @@ We will be adding the following information and resources soon.
 
 ## Contact
 
-For any questions regarding this research, please open an issue in this repository or contact [Your Name or Corresponding Author's Name] at [Your Email Address].
+For any questions regarding this research, please open an issue in this repository.
